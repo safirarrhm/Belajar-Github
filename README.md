@@ -8,3 +8,5 @@ Mencoba push request dengan reviewer
 squash1
 
 squash2
+
+squash3
